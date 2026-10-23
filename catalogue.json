@@ -77,6 +77,33 @@
         "fichier": "Modules/Retarget/version.txt",
         "motif": "([0-9][0-9.]*)"
       }
+    },
+    {
+      "id": "skillviewer",
+      "nom": "Skill Viewer",
+      "description": "Regarde les attaques du jeu : personnage, animation, caméra, sons, voix et sous-titres.",
+      "icone": "🎬",
+      "version": "1.0.0",
+      "date": "2026-10-23",
+      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.0/skillviewer-1.0.0.zip",
+      "sha256": "12ec445f66fb7418f83b2e076b3612e24267ae68db0dfae9417a6eecfd6d8cca",
+      "taille": 45197840,
+      "type": "exe",
+      "exe": "SparkingSkillViewer.exe",
+      "args": [
+        "serve",
+        "auto",
+        "--no-browser"
+      ],
+      "adresse": [
+        "Ressources/SkillViewer/adresse.txt"
+      ],
+      "attente": 120,
+      "ordre": 30,
+      "versionDepuis": {
+        "fichier": "LISEZMOI-SkillViewer.txt",
+        "motif": "version\\s+([0-9][0-9.]*)"
+      }
     }
   ]
 }
