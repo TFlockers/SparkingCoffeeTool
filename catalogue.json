@@ -33,6 +33,31 @@
         "fichier": "LISEZMOI.txt",
         "motif": "SparkingVoiceEditor\\s+v?([0-9][0-9.]*)"
       }
+    },
+    {
+      "id": "sfx",
+      "nom": "Bruitages (SFX)",
+      "description": "Remplace les bruitages du jeu (personnages, combats, menus) et crée un mod prêt à l'emploi.",
+      "icone": "🔊",
+      "version": "1.0.0",
+      "date": "2026-10-23",
+      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/sfx-v1.0.0/sfx-1.0.0.zip",
+      "sha256": "f430938046aae2f7b71811d383212e98c8c95186e05c000272013447ced329d9",
+      "taille": 4797095,
+      "type": "exe",
+      "exe": "SparkingSFXEditor.exe",
+      "env": {
+        "SAE_NO_BROWSER": "1"
+      },
+      "adresse": [
+        "Ressources/_travail_sfx/instance.txt"
+      ],
+      "attente": 90,
+      "ordre": 20,
+      "versionDepuis": {
+        "fichier": "LISEZMOI-SFX.txt",
+        "motif": "SparkingSFXEditor\\s+v?([0-9][0-9.]*)"
+      }
     }
   ]
 }
