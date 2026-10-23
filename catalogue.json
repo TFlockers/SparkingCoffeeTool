@@ -8,5 +8,31 @@
     "taille": 3539062,
     "date": "2026-10-23"
   },
-  "outils": null
+  "outils": [
+    {
+      "id": "voix",
+      "nom": "Voix \u0026 sous-titres",
+      "description": "Remplace les voix des personnages, écris et traduis leurs sous-titres, crée des mods Replacer ou New Slot.",
+      "icone": "🎙️",
+      "version": "1.0.0",
+      "date": "2026-10-23",
+      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/voix-v1.0.0/voix-1.0.0.zip",
+      "sha256": "3d40074fa8ecef1106c24721e0d694ee547d161b7423104bee40534541d7d1e5",
+      "taille": 6339060,
+      "type": "exe",
+      "exe": "SparkingVoiceEditor.exe",
+      "env": {
+        "SAE_NO_BROWSER": "1"
+      },
+      "adresse": [
+        "Ressources/_travail/instance.txt"
+      ],
+      "attente": 90,
+      "ordre": 10,
+      "versionDepuis": {
+        "fichier": "LISEZMOI.txt",
+        "motif": "SparkingVoiceEditor\\s+v?([0-9][0-9.]*)"
+      }
+    }
+  ]
 }
