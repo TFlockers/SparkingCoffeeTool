@@ -58,6 +58,25 @@
         "fichier": "LISEZMOI-SFX.txt",
         "motif": "SparkingSFXEditor\\s+v?([0-9][0-9.]*)"
       }
+    },
+    {
+      "id": "retarget",
+      "nom": "Retarget",
+      "description": "Convertis des animations Xenoverse 2 (.ean) ou Sparking Zero (.ueanim) sur un personnage Sparking Zero et exporte-les en FBX pour Unreal.",
+      "icone": "🦴",
+      "version": "1.0.0",
+      "date": "2026-10-23",
+      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/retarget-v1.0.0/retarget-1.0.0.zip",
+      "sha256": "4d724fbbb24021b1e03f20392f5ce77bb5e51c9e9ae47c530e696100ade06761",
+      "taille": 481168,
+      "type": "web",
+      "dossier": "Modules/Retarget",
+      "page": "index.html",
+      "ordre": 40,
+      "versionDepuis": {
+        "fichier": "Modules/Retarget/version.txt",
+        "motif": "([0-9][0-9.]*)"
+      }
     }
   ]
 }
