@@ -3,9 +3,10 @@
   "nom": "Sparking Coffee Tool",
   "logiciel": {
     "version": "1.0.0",
-    "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/logiciel-v1.0.0/SparkingCoffeeTool-1.0.0.zip",
-    "sha256": "2b504c46b54d44c724eb32b6e59cb167d5bd5cc4a83038258c357dca8e5f1270",
-    "taille": 3539062,
+    "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/logiciel-v1.0.0/SparkingCoffeeTool_Windows.zip",
+    "sha256": "2ff32649377c75775f66f3068c4dae729d1354f8c364955a14a3ac9d86733221",
+    "taille": 3539300,
+    "notes": "PremiÃ¨re version",
     "date": "2026-10-23"
   },
   "outils": [
