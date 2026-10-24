@@ -2,11 +2,11 @@
   "format": 1,
   "nom": "Sparking Coffee Tool",
   "logiciel": {
-    "version": "1.0.0",
-    "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/logiciel-v1.0.0/SparkingCoffeeTool_Windows.zip",
-    "sha256": "63a153db6e1d22b615f18fc6fffd156f0dcd70fbaba0a396bee0c16e71df89a2",
-    "taille": 6691665,
-    "notes": "- Avast resolution",
+    "version": "1.0.1",
+    "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/logiciel-v1.0.1/SparkingCoffeeTool_Windows.zip",
+    "sha256": "a2cc4237b50b449a3628afcc60c3d18bd5cacfd94aa8c2e0dfc17f8f2d8b7c14",
+    "taille": 7043275,
+    "notes": "Saloperie d'avast, disparait xD",
     "date": "2026-10-24"
   },
   "outils": [
