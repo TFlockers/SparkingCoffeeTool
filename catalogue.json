@@ -84,11 +84,11 @@
       "nom": "Skill Viewer",
       "description": "Regarde les attaques vanilla du jeu sans avoir à le lancer : personnage, animation, caméra, sons, voix et sous-titres.",
       "icone": "🎬",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "date": "2026-10-24",
-      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.2/skillviewer-1.0.2.zip",
-      "sha256": "f20d29bac824fba03b71a8ccb35fd171f6c66be1c710adcdbcf7e0b040daa15f",
-      "taille": 45128720,
+      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.3/skillviewer-1.0.3.zip",
+      "sha256": "404deea9a0d9ba3a9a5b0810c96aeb339876fb9f6d46cbd5406bd2216150a8e4",
+      "taille": 45128609,
       "type": "exe",
       "exe": "SparkingSkillViewer.exe",
       "args": [
@@ -104,7 +104,16 @@
       "versionDepuis": {
         "fichier": "LISEZMOI-SkillViewer.txt",
         "motif": "version\\s+([0-9][0-9.]*)"
-      }
+      },
+      "precedentes": [
+        {
+          "version": "1.0.2",
+          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.2/skillviewer-1.0.2.zip",
+          "sha256": "f20d29bac824fba03b71a8ccb35fd171f6c66be1c710adcdbcf7e0b040daa15f",
+          "taille": 45128720,
+          "date": "2026-10-24"
+        }
+      ]
     }
   ],
   "bugs": {
