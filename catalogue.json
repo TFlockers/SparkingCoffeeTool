@@ -116,13 +116,6 @@
       },
       "precedentes": [
         {
-          "version": "1.0.1",
-          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.1/skillviewer-1.0.1.zip",
-          "sha256": "fc340371740004024ebc6235224e87c25edb422dbdb927d07a2c994057b5d9c1",
-          "taille": 45107963,
-          "date": "2026-10-24"
-        },
-        {
           "version": "1.0.0",
           "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.0/skillviewer-1.0.0.zip",
           "sha256": "cdf3b7a2ee6c3e65e6e132442018aad087e9f436b2e93efafb4b27c3c4ff4782",
