@@ -4,8 +4,9 @@
   "logiciel": {
     "version": "1.0.0",
     "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/logiciel-v1.0.0/SparkingCoffeeTool_Windows.zip",
-    "sha256": "115091fe225fbb6a76e39f86bc598548d4e409e0632665006991320f0e476fa3",
-    "taille": 3688923,
+    "sha256": "73298153dd0df495f4ccaf0c5678ff103dc31d0d5bc3bfbc23fdd18eef060668",
+    "taille": 3878554,
+    "notes": "- Blablabla",
     "date": "2026-10-24"
   },
   "outils": [
