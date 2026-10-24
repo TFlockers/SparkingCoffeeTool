@@ -65,11 +65,11 @@
       "nom": "Ajout animation de queue",
       "description": "Ajoute une animation de queue à tes animations, et exporte-les en FBX pour Unreal Engine.",
       "icone": "🦴",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "date": "2026-10-24",
-      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/retarget-v1.0.0/retarget-1.0.0.zip",
-      "sha256": "3db1cb3ca801ca804e980591a79f1666ca02d654d7933c374f84454ef17e5472",
-      "taille": 5451154,
+      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/retarget-v1.0.2/retarget-1.0.2.zip",
+      "sha256": "6555688ce06f2d0fa88f3409f7a697d20a104249c8b563469387f96b820173c6",
+      "taille": 5451321,
       "type": "web",
       "dossier": "Modules/Retarget",
       "page": "index.html",
@@ -77,7 +77,16 @@
       "versionDepuis": {
         "fichier": "Modules/Retarget/version.txt",
         "motif": "([0-9][0-9.]*)"
-      }
+      },
+      "precedentes": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/retarget-v1.0.0/retarget-1.0.0.zip",
+          "sha256": "3db1cb3ca801ca804e980591a79f1666ca02d654d7933c374f84454ef17e5472",
+          "taille": 5451154,
+          "date": "2026-10-24"
+        }
+      ]
     },
     {
       "id": "skillviewer",
