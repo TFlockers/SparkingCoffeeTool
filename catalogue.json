@@ -86,16 +86,7 @@
       "versionDepuis": {
         "fichier": "Modules/Retarget/version.txt",
         "motif": "([0-9][0-9.]*)"
-      },
-      "precedentes": [
-        {
-          "version": "1.0.0",
-          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/retarget-v1.0.0/retarget-1.0.0.zip",
-          "sha256": "3db1cb3ca801ca804e980591a79f1666ca02d654d7933c374f84454ef17e5472",
-          "taille": 5451154,
-          "date": "2026-10-24"
-        }
-      ]
+      }
     },
     {
       "id": "skillviewer",
