@@ -106,5 +106,9 @@
         "motif": "version\\s+([0-9][0-9.]*)"
       }
     }
-  ]
+  ],
+  "bugs": {
+    "depot": "TFlockers/SparkingCoffeeTool-bugs",
+    "cle": "c1:JAkiOxsfKDd3PCgvJFIEJSwjXwwyHyI1FShDLl0JKxoHFFFTUB9YGwUYJEAvOScWWEUnJxYeOxkvPF06Bxw6PX4yTSVACyZVQiokWSwNISRXVDogDh8zTRcdExo0"
+  }
 }
