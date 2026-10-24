@@ -87,8 +87,8 @@
       "version": "1.0.0",
       "date": "2026-10-24",
       "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.0/skillviewer-1.0.0.zip",
-      "sha256": "d0d3724d4bb89d5bbf0ba923896346ec07f47253d205611718a5255bbe26b8a1",
-      "taille": 45206498,
+      "sha256": "cdf3b7a2ee6c3e65e6e132442018aad087e9f436b2e93efafb4b27c3c4ff4782",
+      "taille": 45107932,
       "type": "exe",
       "exe": "SparkingSkillViewer.exe",
       "args": [
