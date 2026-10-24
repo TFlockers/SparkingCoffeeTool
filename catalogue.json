@@ -42,8 +42,8 @@
       "version": "1.0.0",
       "date": "2026-10-24",
       "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/sfx-v1.0.0/sfx-1.0.0.zip",
-      "sha256": "32071d1bfb33020c4397e1dd5eb884269529b02456d7c0f6e05460d67fcabf54",
-      "taille": 4933689,
+      "sha256": "71a4df7b7528059f9990b1143f2ed49a1a3ed68358e65fb7a65612db8c51ac09",
+      "taille": 4835500,
       "type": "exe",
       "exe": "SparkingSFXEditor.exe",
       "env": {
