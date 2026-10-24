@@ -17,8 +17,8 @@
       "version": "1.0.0",
       "date": "2026-10-24",
       "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/voix-v1.0.0/voix-1.0.0.zip",
-      "sha256": "22cbe26f8d248ceeec3bd4828f6d3e2ed7266e3f2da4928c8b3d90d61fbaf0c7",
-      "taille": 6339890,
+      "sha256": "3f217fc3753e5b128dd9032aebbbdac6c7631711cbb0513c61e9c067cd919b13",
+      "taille": 6241402,
       "type": "exe",
       "exe": "SparkingVoiceEditor.exe",
       "env": {
