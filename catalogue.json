@@ -185,5 +185,12 @@
   "bugs": {
     "depot": "TFlockers/SparkingCoffeeTool-bugs",
     "cle": "c1:JAkiOxsfKDd3PCgvJFIEJSwjXwwyHyI1FShDLl0JKxoHFFFTUB9YGwUYJEAvOScWWEUnJxYeOxkvPF06Bxw6PX4yTSVACyZVQiokWSwNISRXVDogDh8zTRcdExo0"
+  },
+  "mappings": {
+    "fichier": "DBSZ-09-06.usmap",
+    "date": "2026-10-25",
+    "sha256": "c212dab35ac5e344b4516c1c5fca745a18f81b93dd3d18c131591483c0a19cad",
+    "taille": 2339777,
+    "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/mappings/SparkingZERO_2026-10-25_162157.usmap"
   }
 }
