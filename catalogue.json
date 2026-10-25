@@ -109,31 +109,40 @@
     },
     {
       "id": "anim",
-      "nom": "Animations générales",
+      "nom": "ABP Editor",
       "description": "Change les animations générales de tes personnages (idle, déplacements, dashs…), vois-les sur n'importe quel personnage et exporte leur ABP prêt à remplacer celui du jeu.",
       "icone": "🏃",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "date": "2026-10-25",
-      "notes": "- Release",
-      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/anim-v1.0.0/anim-1.0.0.zip",
-      "sha256": "61d9b2461e45de4cd6298d65a34496e12623542bc4d3119e33664871be199cc7",
-      "taille": 45242849,
+      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/anim-v1.0.1/anim-1.0.1.zip",
+      "sha256": "55a063e435430a90b461448eb13dff4a47a634ad24568fa75f2280c1b3c0404a",
+      "taille": 45242804,
       "type": "exe",
-      "exe": "SparkingAnimEditor.exe",
+      "exe": "SparkingABPEditor.exe",
       "args": [
         "serve",
         "auto",
         "--no-browser"
       ],
       "adresse": [
-        "Ressources/AnimEditor/adresse.txt"
+        "Ressources/ABPEditor/adresse.txt"
       ],
       "attente": 120,
       "ordre": 35,
       "versionDepuis": {
-        "fichier": "LISEZMOI-AnimEditor.txt",
+        "fichier": "LISEZMOI-ABPEditor.txt",
         "motif": "version\\s+([0-9][0-9.]*)"
-      }
+      },
+      "precedentes": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/anim-v1.0.0/anim-1.0.0.zip",
+          "sha256": "61d9b2461e45de4cd6298d65a34496e12623542bc4d3119e33664871be199cc7",
+          "taille": 45242849,
+          "date": "2026-10-25",
+          "notes": "- Release"
+        }
+      ]
     }
   ],
   "bugs": {
