@@ -2,11 +2,11 @@
   "format": 1,
   "nom": "Sparking Coffee Tool",
   "logiciel": {
-    "version": "1.0.15",
-    "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/logiciel-v1.0.15/SparkingCoffeeTool_Windows.zip",
-    "sha256": "413645029110cc169fea890e887a431afbd57bf26d93c94bc39723ec79c97441",
-    "taille": 12218400,
-    "notes": "- Correction de l'usmap",
+    "version": "1.0.16",
+    "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/logiciel-v1.0.16/SparkingCoffeeTool_Windows.zip",
+    "sha256": "3eb7b951973b66c527a3593bab285cb010b2a2fd00c06942cc0cf702f1c0affc",
+    "taille": 12581081,
+    "notes": "- Divers correctifs\n- Ajout de l'outil Musiques (voir son descriptif)",
     "date": "2026-10-25"
   },
   "outils": [
