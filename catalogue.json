@@ -151,12 +151,11 @@
       "nom": "ABP Editor",
       "description": "Change les animations générales de tes personnages (idle, déplacements, dashs…), vois-les sur n'importe quel personnage et exporte leur ABP prêt à remplacer celui du jeu.",
       "icone": "🏃",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "date": "2026-10-25",
-      "notes": "- Correction de l'usmap",
-      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/anim-v1.0.6/anim-1.0.6.zip",
-      "sha256": "0b061ccaf10322afc7c4ab626e3854a9a0bc0d6c9f240403cf69ab3df629ef18",
-      "taille": 46066130,
+      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/anim-v1.0.7/anim-1.0.7.zip",
+      "sha256": "dde3fd1c8cb8e9b75a6c1e86efa2b473aa9f9ed1c9f1087bfa02ab8078f4fc36",
+      "taille": 46066057,
       "type": "exe",
       "exe": "SparkingABPEditor.exe",
       "args": [
@@ -174,6 +173,14 @@
         "motif": "version\\s+([0-9][0-9.]*)"
       },
       "precedentes": [
+        {
+          "version": "1.0.6",
+          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/anim-v1.0.6/anim-1.0.6.zip",
+          "sha256": "0b061ccaf10322afc7c4ab626e3854a9a0bc0d6c9f240403cf69ab3df629ef18",
+          "taille": 46066130,
+          "date": "2026-10-25",
+          "notes": "- Correction de l'usmap"
+        },
         {
           "version": "1.0.3",
           "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/anim-v1.0.3/anim-1.0.3.zip",
