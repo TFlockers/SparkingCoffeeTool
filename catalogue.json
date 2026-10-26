@@ -2,11 +2,12 @@
   "format": 1,
   "nom": "Sparking Coffee Tool",
   "logiciel": {
-    "version": "1.0.17",
-    "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/logiciel-v1.0.17/SparkingCoffeeTool_Windows.zip",
-    "sha256": "7c453610d7f89428fda5dd24f806312295cbb742f35397fd5b0651c4eb0450e0",
-    "taille": 12582520,
-    "date": "2026-10-25"
+    "version": "1.0.18",
+    "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/logiciel-v1.0.18/SparkingCoffeeTool_Windows.zip",
+    "sha256": "e204406e2014e2b17cf5f4bd15a817a5f73580bae81fcbb7bdb84e8d59588d06",
+    "taille": 12712672,
+    "notes": "- Ajout ost new slot",
+    "date": "2026-10-26"
   },
   "outils": [
     {
