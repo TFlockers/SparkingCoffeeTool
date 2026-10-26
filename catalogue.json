@@ -178,17 +178,7 @@
       "versionDepuis": {
         "fichier": "LISEZMOI-ABPEditor.txt",
         "motif": "version\\s+([0-9][0-9.]*)"
-      },
-      "precedentes": [
-        {
-          "version": "1.0.6",
-          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/anim-v1.0.6/anim-1.0.6.zip",
-          "sha256": "0b061ccaf10322afc7c4ab626e3854a9a0bc0d6c9f240403cf69ab3df629ef18",
-          "taille": 46066130,
-          "date": "2026-10-25",
-          "notes": "- Correction de l'usmap"
-        }
-      ]
+      }
     }
   ],
   "bugs": {
