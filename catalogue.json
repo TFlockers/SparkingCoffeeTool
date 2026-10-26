@@ -114,14 +114,6 @@
           "date": "2026-10-25"
         },
         {
-          "version": "1.0.11",
-          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.11/skillviewer-1.0.11.zip",
-          "sha256": "73c6e18b6a847f09615ef317dc17d307a21a61eea0ad690990660ea4b47c4bd4",
-          "taille": 46075030,
-          "date": "2026-10-25",
-          "notes": "- Correction de l'usmap"
-        },
-        {
           "version": "1.0.8",
           "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.8/skillviewer-1.0.8.zip",
           "sha256": "a3743d47e5624608eadc7a61c87b87c1ca2df64309b9fb39bf3becb902a25a04",
