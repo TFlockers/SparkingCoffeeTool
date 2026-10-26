@@ -119,13 +119,6 @@
           "sha256": "a3743d47e5624608eadc7a61c87b87c1ca2df64309b9fb39bf3becb902a25a04",
           "taille": 45263874,
           "date": "2026-10-25"
-        },
-        {
-          "version": "1.0.7",
-          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.7/skillviewer-1.0.7.zip",
-          "sha256": "5934ba4d80fda9f7b35a91b8f69673318ea79488e97e4e2f252755e58cbb4f86",
-          "taille": 45259847,
-          "date": "2026-10-25"
         }
       ]
     },
