@@ -187,13 +187,6 @@
           "taille": 46066130,
           "date": "2026-10-25",
           "notes": "- Correction de l'usmap"
-        },
-        {
-          "version": "1.0.3",
-          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/anim-v1.0.3/anim-1.0.3.zip",
-          "sha256": "eef84745570d41afe7f120805776927d62d4487c9db4037316b717ed55b5301c",
-          "taille": 45255132,
-          "date": "2026-10-25"
         }
       ]
     }
