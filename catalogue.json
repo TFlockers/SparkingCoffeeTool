@@ -201,13 +201,6 @@
           "sha256": "fa99406ecb6c2409c0472983209583a4d91468a41d0d66ffccef8c1203db6779",
           "taille": 45249453,
           "date": "2026-10-25"
-        },
-        {
-          "version": "1.0.1",
-          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/anim-v1.0.1/anim-1.0.1.zip",
-          "sha256": "49c1b50522744ff0db4ab5da05649e144061685291035de1012add7f5e10df45",
-          "taille": 45246771,
-          "date": "2026-10-25"
         }
       ]
     }
