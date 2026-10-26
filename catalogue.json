@@ -104,16 +104,7 @@
       "versionDepuis": {
         "fichier": "LISEZMOI-SkillViewer.txt",
         "motif": "version\\s+([0-9][0-9.]*)"
-      },
-      "precedentes": [
-        {
-          "version": "1.0.8",
-          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.8/skillviewer-1.0.8.zip",
-          "sha256": "a3743d47e5624608eadc7a61c87b87c1ca2df64309b9fb39bf3becb902a25a04",
-          "taille": 45263874,
-          "date": "2026-10-25"
-        }
-      ]
+      }
     },
     {
       "id": "anim",
