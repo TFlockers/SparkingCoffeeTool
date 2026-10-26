@@ -84,12 +84,12 @@
       "nom": "Skill Viewer",
       "description": "Regarde les attaques vanilla du jeu sans avoir à le lancer : personnage, animation, caméra, sons, voix et sous-titres.",
       "icone": "🎬",
-      "version": "1.0.14",
+      "version": "1.0.15",
       "date": "2026-10-26",
-      "notes": "- Petite update minime",
-      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.14/skillviewer-1.0.14.zip",
-      "sha256": "b77721eda31fd897dd4390c7051f8554c5a63620ddbfa8e3c02a5cf6843357c1",
-      "taille": 46079473,
+      "notes": "- Fix de quelques grabs",
+      "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.15/skillviewer-1.0.15.zip",
+      "sha256": "a3531358d462dc9355d36710910e4246873cbedc5ef00cf513a8f52f5588018f",
+      "taille": 46079624,
       "type": "exe",
       "exe": "SparkingSkillViewer.exe",
       "args": [
@@ -107,6 +107,14 @@
         "motif": "version\\s+([0-9][0-9.]*)"
       },
       "precedentes": [
+        {
+          "version": "1.0.14",
+          "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.14/skillviewer-1.0.14.zip",
+          "sha256": "b77721eda31fd897dd4390c7051f8554c5a63620ddbfa8e3c02a5cf6843357c1",
+          "taille": 46079473,
+          "date": "2026-10-26",
+          "notes": "- Petite update minime"
+        },
         {
           "version": "1.0.13",
           "url": "https://github.com/TFlockers/SparkingCoffeeTool/releases/download/skillviewer-v1.0.13/skillviewer-1.0.13.zip",
